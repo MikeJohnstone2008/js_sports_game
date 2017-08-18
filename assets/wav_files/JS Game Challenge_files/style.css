@@ -1,0 +1,45 @@
+* {
+  /*background-image: url("assets/images/dodgeball-logo.jpg");*/
+  /*width: 800;*/
+  /*height: 700px;*/
+  border: 2px solid blue;
+}
+#frame  {
+  width: 600px;
+  height: 600px;
+  /*padding-left: 200px;*/
+  /*padding-right: 200px;*/
+  background-size: 800px 600px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  /*background-image: url("../images/dodgeball-logo.jpg");*/
+    /*background-image: url("../images/intro-bg.jpg");*/
+}
+/*<style type="text/css">*/
+  .hide {
+    display: none;
+  }
+  .left {
+    float: left;
+  }
+  .right {
+    float: right;
+  }
+  .clear {
+    clear: both;
+  }
+/*</style>*/
+/*<div style="width: 700px;margin: 0 auto;">*/
+div {
+  width: 700px;margin: 0 auto;"
+  margin: 0 auto;
+}
+  /*<h1 style="margin-bottom:5px">Dodgeball, JavaScript, and the DOM oh My!</h1>*/
+  h1 h2 #reset {
+      margin-bottom:5px;
+      text-align: center;
+  }
+  /*<h2 style="margin-top: 0">...the game!</h2>*/
+    /*h2  {
+      margin-top: 0"
+    }*/
